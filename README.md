@@ -1,16 +1,35 @@
-### Hi there 👋
+###  👋 Olá! Eu sou o Hugo Facundo...
 
-<!--
-**hufacundo/hufacundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estou Cursado Sistemas para Internet (2º Período)
+- 💻 Atualmente estou estudando Python, Java e JavaScript
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/ewertonalex">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hufacundo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hufacundo&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+    
+  <img align="center" alt="ewe-Js" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965 .png">
+    <img align="center" alt="ewe-Js" height="30" width="40" src="https://www.pngkit.com/png/full/70-701749_this-free-icons-png -design-of-python-language.png">
+    <img align="center" alt="ewe-Js" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953 .png">
+    <img align="center" alt="ewe-Js" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png">
+    <img align="center" alt="ewe-Js" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
+    
+</div>
+  
+##
+  
+  <div>
+    
+   <a href="https://api.whatsapp.com/send?phone=5583999507034" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://instagram.com/hugofacundo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo= instagram&logoColor=white"></a>
+ 	<a href="mailto:hufacundo@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor= branco"></a>
+    <a href="https://www.linkedin.com/in/hufacundo" target="_blank"><img src="https://img.shields.io/badge /LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+    
+
+</div>
+
