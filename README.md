@@ -29,7 +29,8 @@
  	<a href="mailto:hufacundo@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor= branco"></a>
     <a href="https://www.linkedin.com/in/hufacundo" target="_blank"><img src="https://logospng.org/download/linkedin/logo-linkedin-256.png"></a>
 
-    
+![Snake animation](https://github.com/hufacundo/hufacundo/blob/output/github-contribution-grid-snake.svg)  
 
 </div>
 
+  
