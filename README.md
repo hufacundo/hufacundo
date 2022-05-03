@@ -1,6 +1,6 @@
 ###  👋 Olá! Eu sou o Hugo Facundo...
 
-- 🎓 Estou Cursado Sistemas para Internet
+- 🎓 Cursando Sistemas para Internet - UNIESP
 - 💻 Atualmente estou estudando Python, Java e JavaScript
 
 
