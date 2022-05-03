@@ -1,11 +1,11 @@
 ###  👋 Olá! Eu sou o Hugo Facundo...
 
-- 🎓 Estou Cursado Sistemas para Internet (2º Período)
+- 🎓 Estou Cursado Sistemas para Internet
 - 💻 Atualmente estou estudando Python, Java e JavaScript
 
 
 <div align="center">
-  <a href="https://github.com/ewertonalex">
+  <a href="https://github.com/hufacundo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hufacundo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hufacundo&layout=compact&langs_count=7&theme=dark"/>
 </div>
