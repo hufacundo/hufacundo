@@ -1,6 +1,6 @@
 ###  👋 Olá! Eu sou o Hugo Facundo...
 
-- 🎓 Cursando Sistemas para Internet - UNIESP
+- 🎓 Graduado em Sistemas para Internet - UNIESP
 
 <div align="center">
   <a href="https://github.com/hufacundo">
